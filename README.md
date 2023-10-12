@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Marynacr0ss
-- 👀 I’m interested in UX/UI/Illustaration/Design
-- 🌱 I’m currently learning UX/UI
-- 💞️ I’m looking to collaborate on app/web design (UX/UI)
+- 👋 Hi, I’m Mary
+- 👀 I’m interested in UX/UI/Illustaration/Design/FrontEnd
+- 🌱 I’m learning UX/UI, FrontEnd
+- 💞️ I’m looking to collaborate on app/web design (UX/UI, FrontEnd)
 - 📫 How to reach me here on gh
 
 <!---
